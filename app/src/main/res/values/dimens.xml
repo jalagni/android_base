@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="header">20sp</dimen>
+    <dimen name="body">18sp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="padding">5dp</dimen>
+</resources>
